@@ -1,5 +1,3 @@
-# Applications-of-Probabilistic-theory
-
 # Application of Probabilistic Theory
 
 This repository contains the project I completed on the **Applications of Probabilistic Theory**. The project focuses on applying advanced probabilistic models to solve real-world problems, optimize decision-making, and enhance predictive accuracy.
