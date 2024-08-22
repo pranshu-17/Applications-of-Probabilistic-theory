@@ -20,11 +20,10 @@ Probabilistic theory provides a powerful framework for dealing with uncertainty 
 
 - Python
 - NumPy
-- SciPy
+- MatLab
 - Pandas
 - Matplotlib
 - Scikit-learn
-- TensorFlow (optional for advanced machine learning applications)
 
 ## Results
 
